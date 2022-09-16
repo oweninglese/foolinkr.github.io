@@ -1,1 +1,8 @@
 /site/
+/.history/
+/.mppy_cache/
+/.vscode/
+/foolinkr/
+.gitignore
+docs.db
+

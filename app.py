@@ -1,6 +1,6 @@
 import sqlite3
 
-from flask import Flask, render_template, request, flash, url_for
+from flask import Flask, flash, render_template, request, url_for
 
 db = 'docs.db'
 
@@ -25,5 +25,11 @@ def index():
         note = dict(note)
         notes.append(note)
 
-return render_template("index.html")
+    return render_template("index.html")
+
+
+
+
+
+
 
