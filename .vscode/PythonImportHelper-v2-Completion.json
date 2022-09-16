@@ -1,0 +1,587 @@
+[
+    {
+        "label": "frontmatter",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "frontmatter",
+        "description": "frontmatter",
+        "detail": "frontmatter",
+        "documentation": {}
+    },
+    {
+        "label": "TFILE",
+        "importPath": "linkr",
+        "description": "linkr",
+        "isExtraImport": true,
+        "detail": "linkr",
+        "documentation": {}
+    },
+    {
+        "label": "arts",
+        "importPath": "linkr",
+        "description": "linkr",
+        "isExtraImport": true,
+        "detail": "linkr",
+        "documentation": {}
+    },
+    {
+        "label": "load_folder",
+        "importPath": "linkr",
+        "description": "linkr",
+        "isExtraImport": true,
+        "detail": "linkr",
+        "documentation": {}
+    },
+    {
+        "label": "start",
+        "importPath": "linkr",
+        "description": "linkr",
+        "isExtraImport": true,
+        "detail": "linkr",
+        "documentation": {}
+    },
+    {
+        "label": "TAGS",
+        "importPath": "linkr",
+        "description": "linkr",
+        "isExtraImport": true,
+        "detail": "linkr",
+        "documentation": {}
+    },
+    {
+        "label": "TFILE",
+        "importPath": "linkr",
+        "description": "linkr",
+        "isExtraImport": true,
+        "detail": "linkr",
+        "documentation": {}
+    },
+    {
+        "label": "base_dir",
+        "importPath": "linkr",
+        "description": "linkr",
+        "isExtraImport": true,
+        "detail": "linkr",
+        "documentation": {}
+    },
+    {
+        "label": "TAGS",
+        "importPath": "linkr",
+        "description": "linkr",
+        "isExtraImport": true,
+        "detail": "linkr",
+        "documentation": {}
+    },
+    {
+        "label": "TFILE",
+        "importPath": "linkr",
+        "description": "linkr",
+        "isExtraImport": true,
+        "detail": "linkr",
+        "documentation": {}
+    },
+    {
+        "label": "base_dir",
+        "importPath": "linkr",
+        "description": "linkr",
+        "isExtraImport": true,
+        "detail": "linkr",
+        "documentation": {}
+    },
+    {
+        "label": "arts",
+        "importPath": "linkr",
+        "description": "linkr",
+        "isExtraImport": true,
+        "detail": "linkr",
+        "documentation": {}
+    },
+    {
+        "label": "load_folder",
+        "importPath": "linkr",
+        "description": "linkr",
+        "isExtraImport": true,
+        "detail": "linkr",
+        "documentation": {}
+    },
+    {
+        "label": "search_yaml",
+        "importPath": "linkr",
+        "description": "linkr",
+        "isExtraImport": true,
+        "detail": "linkr",
+        "documentation": {}
+    },
+    {
+        "label": "arts",
+        "importPath": "linkr",
+        "description": "linkr",
+        "isExtraImport": true,
+        "detail": "linkr",
+        "documentation": {}
+    },
+    {
+        "label": "endof_yaml",
+        "importPath": "linkr",
+        "description": "linkr",
+        "isExtraImport": true,
+        "detail": "linkr",
+        "documentation": {}
+    },
+    {
+        "label": "resub",
+        "importPath": "linkr",
+        "description": "linkr",
+        "isExtraImport": true,
+        "detail": "linkr",
+        "documentation": {}
+    },
+    {
+        "label": "load_folder",
+        "importPath": "linkr",
+        "description": "linkr",
+        "isExtraImport": true,
+        "detail": "linkr",
+        "documentation": {}
+    },
+    {
+        "label": "start",
+        "importPath": "linkr",
+        "description": "linkr",
+        "isExtraImport": true,
+        "detail": "linkr",
+        "documentation": {}
+    },
+    {
+        "label": "date",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "date",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "date",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "check_file",
+        "importPath": "makesubs",
+        "description": "makesubs",
+        "isExtraImport": true,
+        "detail": "makesubs",
+        "documentation": {}
+    },
+    {
+        "label": "check_file",
+        "importPath": "makesubs",
+        "description": "makesubs",
+        "isExtraImport": true,
+        "detail": "makesubs",
+        "documentation": {}
+    },
+    {
+        "label": "suball",
+        "importPath": "makesubs",
+        "description": "makesubs",
+        "isExtraImport": true,
+        "detail": "makesubs",
+        "documentation": {}
+    },
+    {
+        "label": "get_tags",
+        "importPath": "get_tags",
+        "description": "get_tags",
+        "isExtraImport": true,
+        "detail": "get_tags",
+        "documentation": {}
+    },
+    {
+        "label": "get_tags",
+        "importPath": "get_tags",
+        "description": "get_tags",
+        "isExtraImport": true,
+        "detail": "get_tags",
+        "documentation": {}
+    },
+    {
+        "label": "get_tags",
+        "importPath": "get_tags",
+        "description": "get_tags",
+        "isExtraImport": true,
+        "detail": "get_tags",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "re",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "re",
+        "description": "re",
+        "detail": "re",
+        "documentation": {}
+    },
+    {
+        "label": "check_tags",
+        "kind": 2,
+        "importPath": "checkfortags",
+        "description": "checkfortags",
+        "peekOfCode": "def check_tags(afile, tag):\n    post = fm.load(arts + afile)\n    if tag in post.content:\n        post['tags'] += f\" #{tag};\"\n        with open(arts + afile, 'w', encoding=\"utf-8\") as text:\n            text.write(fm.dumps(post))\nload_folder()\nstart()",
+        "detail": "checkfortags",
+        "documentation": {}
+    },
+    {
+        "label": "start",
+        "kind": 2,
+        "importPath": "create_tagfiles",
+        "description": "create_tagfiles",
+        "peekOfCode": "def start(tags):\n    \"\"\"sumary_line\n    Keyword arguments:\n    argument -- description\n    Return: return_description\n    \"\"\"\n    count = 0\n    cleartags = [tag.strip(\" \") for tag in tags]\n    while \"\" in cleartags:\n        cleartags.remove(\"\")",
+        "detail": "create_tagfiles",
+        "documentation": {}
+    },
+    {
+        "label": "ARTDIR",
+        "kind": 5,
+        "importPath": "create_tagfiles",
+        "description": "create_tagfiles",
+        "peekOfCode": "ARTDIR = '/final/'\narts = base_dir + ARTDIR\nTAGS = check_file()\ndef start(tags):\n    \"\"\"sumary_line\n    Keyword arguments:\n    argument -- description\n    Return: return_description\n    \"\"\"\n    count = 0",
+        "detail": "create_tagfiles",
+        "documentation": {}
+    },
+    {
+        "label": "arts",
+        "kind": 5,
+        "importPath": "create_tagfiles",
+        "description": "create_tagfiles",
+        "peekOfCode": "arts = base_dir + ARTDIR\nTAGS = check_file()\ndef start(tags):\n    \"\"\"sumary_line\n    Keyword arguments:\n    argument -- description\n    Return: return_description\n    \"\"\"\n    count = 0\n    cleartags = [tag.strip(\" \") for tag in tags]",
+        "detail": "create_tagfiles",
+        "documentation": {}
+    },
+    {
+        "label": "TAGS",
+        "kind": 5,
+        "importPath": "create_tagfiles",
+        "description": "create_tagfiles",
+        "peekOfCode": "TAGS = check_file()\ndef start(tags):\n    \"\"\"sumary_line\n    Keyword arguments:\n    argument -- description\n    Return: return_description\n    \"\"\"\n    count = 0\n    cleartags = [tag.strip(\" \") for tag in tags]\n    while \"\" in cleartags:",
+        "detail": "create_tagfiles",
+        "documentation": {}
+    },
+    {
+        "label": "get_tags",
+        "kind": 2,
+        "importPath": "get_tags",
+        "description": "get_tags",
+        "peekOfCode": "def get_tags(tfile):\n    \"\"\"sumary_line\n    Keyword arguments:\n    argument -- description\n    Return: return_description\n    \"\"\"\n    with open(tfile, \"r\",\n              encoding='utf-8') as tagfile:\n        j = tagfile.read()\n        return j.split(\",\")",
+        "detail": "get_tags",
+        "documentation": {}
+    },
+    {
+        "label": "start",
+        "kind": 2,
+        "importPath": "link_articles",
+        "description": "link_articles",
+        "peekOfCode": "def start(tags):\n    \"\"\"sumary_line\n    Keyword arguments:\n    argument -- description\n    Return: return_description\n    \"\"\"\n    count = 0\n    cleartags = [tag.strip(\" \") for tag in tags]\n    while \"\" in cleartags:\n        cleartags.remove(\"\")",
+        "detail": "link_articles",
+        "documentation": {}
+    },
+    {
+        "label": "ARTDIR",
+        "kind": 5,
+        "importPath": "link_articles",
+        "description": "link_articles",
+        "peekOfCode": "ARTDIR = '/final/'\narts = base_dir + ARTDIR\nTAGS = check_file()\ndef start(tags):\n    \"\"\"sumary_line\n    Keyword arguments:\n    argument -- description\n    Return: return_description\n    \"\"\"\n    count = 0",
+        "detail": "link_articles",
+        "documentation": {}
+    },
+    {
+        "label": "arts",
+        "kind": 5,
+        "importPath": "link_articles",
+        "description": "link_articles",
+        "peekOfCode": "arts = base_dir + ARTDIR\nTAGS = check_file()\ndef start(tags):\n    \"\"\"sumary_line\n    Keyword arguments:\n    argument -- description\n    Return: return_description\n    \"\"\"\n    count = 0\n    cleartags = [tag.strip(\" \") for tag in tags]",
+        "detail": "link_articles",
+        "documentation": {}
+    },
+    {
+        "label": "TAGS",
+        "kind": 5,
+        "importPath": "link_articles",
+        "description": "link_articles",
+        "peekOfCode": "TAGS = check_file()\ndef start(tags):\n    \"\"\"sumary_line\n    Keyword arguments:\n    argument -- description\n    Return: return_description\n    \"\"\"\n    count = 0\n    cleartags = [tag.strip(\" \") for tag in tags]\n    while \"\" in cleartags:",
+        "detail": "link_articles",
+        "documentation": {}
+    },
+    {
+        "label": "resub",
+        "kind": 2,
+        "importPath": "linkr",
+        "description": "linkr",
+        "peekOfCode": "def resub(tag, line):\n    \"\"\"sumary_line fm.load(afile)['summary']\"\"\"\n    return re.sub(tag, f\"[[{tag}]]\", line)\ndef get_tagfile():\n    \"\"\"sumary_line fm.load(afile)['summary']\"\"\"\n    with open(TFILE, \"r\",\n              encoding=\"utf-8\") as gfile:\n        jgf = gfile.read()\n        return jgf.split(\",\")\ndef preload_folder():",
+        "detail": "linkr",
+        "documentation": {}
+    },
+    {
+        "label": "get_tagfile",
+        "kind": 2,
+        "importPath": "linkr",
+        "description": "linkr",
+        "peekOfCode": "def get_tagfile():\n    \"\"\"sumary_line fm.load(afile)['summary']\"\"\"\n    with open(TFILE, \"r\",\n              encoding=\"utf-8\") as gfile:\n        jgf = gfile.read()\n        return jgf.split(\",\")\ndef preload_folder():\n    \"\"\" load all md in TESTDIR and append\n    Post object to files dict list\n    Args:",
+        "detail": "linkr",
+        "documentation": {}
+    },
+    {
+        "label": "preload_folder",
+        "kind": 2,
+        "importPath": "linkr",
+        "description": "linkr",
+        "peekOfCode": "def preload_folder():\n    \"\"\" load all md in TESTDIR and append\n    Post object to files dict list\n    Args:\n    TESTDIR (folder): folder containing md files\nR   eturns:\n    list: [list of dicts] -->\n    [fname]: [Post object]\"\"\"\n    for fname in os.listdir(arts):\n        if fname.endswith(\".md\"):",
+        "detail": "linkr",
+        "documentation": {}
+    },
+    {
+        "label": "sub_file",
+        "kind": 2,
+        "importPath": "linkr",
+        "description": "linkr",
+        "peekOfCode": "def sub_file(file, tag):\n    \"\"\"\n    check single file for single tag\n    \"\"\"\n    print(file, tag)\n    with open(arts + file,\n              encoding=\"utf-8\") as text:\n        pst = text.readlines()\n        yamlend = endof_yaml(pst)\n        print(yamlend)",
+        "detail": "linkr",
+        "documentation": {}
+    },
+    {
+        "label": "search_yaml",
+        "kind": 2,
+        "importPath": "linkr",
+        "description": "linkr",
+        "peekOfCode": "def search_yaml(file, a):\n    \"\"\"sumary_line fm.load(afile)['summary']\"\"\"\n    end = []\n    for i, nic in enumerate(file, 1):\n        if i < 10 and a.search(nic):\n            end = i\n    return end\ndef endof_yaml(file):\n    \"\"\"sumary_line fm.load(afile)['summary']\"\"\"\n    abc = re.compile(\"---\")",
+        "detail": "linkr",
+        "documentation": {}
+    },
+    {
+        "label": "endof_yaml",
+        "kind": 2,
+        "importPath": "linkr",
+        "description": "linkr",
+        "peekOfCode": "def endof_yaml(file):\n    \"\"\"sumary_line fm.load(afile)['summary']\"\"\"\n    abc = re.compile(\"---\")\n    return search_yaml(file, abc)\ndef tags_f(tag, pobject):\n    \"\"\"sumary_line fm.load(afile)['summary']\"\"\"\n    sub_file(pobject['title'] + \".md\", tag)\ndef check_tags(afile, tag):\n    \"\"\"sumary_line fm.load(afile)['summary']\"\"\"\n    post = fm.load(arts + afile)",
+        "detail": "linkr",
+        "documentation": {}
+    },
+    {
+        "label": "tags_f",
+        "kind": 2,
+        "importPath": "linkr",
+        "description": "linkr",
+        "peekOfCode": "def tags_f(tag, pobject):\n    \"\"\"sumary_line fm.load(afile)['summary']\"\"\"\n    sub_file(pobject['title'] + \".md\", tag)\ndef check_tags(afile, tag):\n    \"\"\"sumary_line fm.load(afile)['summary']\"\"\"\n    post = fm.load(arts + afile)\n    if tag in post.content:\n        post['tags'] += f\" #{tag};\"\n        with open(arts + afile, 'w', encoding='utf-8') as text:\n            text.write(fm.dumps(post))",
+        "detail": "linkr",
+        "documentation": {}
+    },
+    {
+        "label": "check_tags",
+        "kind": 2,
+        "importPath": "linkr",
+        "description": "linkr",
+        "peekOfCode": "def check_tags(afile, tag):\n    \"\"\"sumary_line fm.load(afile)['summary']\"\"\"\n    post = fm.load(arts + afile)\n    if tag in post.content:\n        post['tags'] += f\" #{tag};\"\n        with open(arts + afile, 'w', encoding='utf-8') as text:\n            text.write(fm.dumps(post))\n        tags_f(tag, post)\ndef start():\n    for fame in os.listdir(arts):",
+        "detail": "linkr",
+        "documentation": {}
+    },
+    {
+        "label": "start",
+        "kind": 2,
+        "importPath": "linkr",
+        "description": "linkr",
+        "peekOfCode": "def start():\n    for fame in os.listdir(arts):\n        allfile = str(fame) if fame.endswith(\".md\") else None\n        with open(TFILE, \"r\", encoding=\"utf-8\") as tagfile:\n            j = tagfile.read()\n            h = j.split(\",\")\n            for ick in h:\n                check_tags(allfile, ick)",
+        "detail": "linkr",
+        "documentation": {}
+    },
+    {
+        "label": "ARTDIR",
+        "kind": 5,
+        "importPath": "linkr",
+        "description": "linkr",
+        "peekOfCode": "ARTDIR = '/vault/'\nTAGS: str = ''\nTFILE = 'linkr/TAGS.csv'\nbase_dir = os.path.abspath(os.path.dirname(__file__))\narts = base_dir + ARTDIR\ndef resub(tag, line):\n    \"\"\"sumary_line fm.load(afile)['summary']\"\"\"\n    return re.sub(tag, f\"[[{tag}]]\", line)\ndef get_tagfile():\n    \"\"\"sumary_line fm.load(afile)['summary']\"\"\"",
+        "detail": "linkr",
+        "documentation": {}
+    },
+    {
+        "label": "TFILE",
+        "kind": 5,
+        "importPath": "linkr",
+        "description": "linkr",
+        "peekOfCode": "TFILE = 'linkr/TAGS.csv'\nbase_dir = os.path.abspath(os.path.dirname(__file__))\narts = base_dir + ARTDIR\ndef resub(tag, line):\n    \"\"\"sumary_line fm.load(afile)['summary']\"\"\"\n    return re.sub(tag, f\"[[{tag}]]\", line)\ndef get_tagfile():\n    \"\"\"sumary_line fm.load(afile)['summary']\"\"\"\n    with open(TFILE, \"r\",\n              encoding=\"utf-8\") as gfile:",
+        "detail": "linkr",
+        "documentation": {}
+    },
+    {
+        "label": "base_dir",
+        "kind": 5,
+        "importPath": "linkr",
+        "description": "linkr",
+        "peekOfCode": "base_dir = os.path.abspath(os.path.dirname(__file__))\narts = base_dir + ARTDIR\ndef resub(tag, line):\n    \"\"\"sumary_line fm.load(afile)['summary']\"\"\"\n    return re.sub(tag, f\"[[{tag}]]\", line)\ndef get_tagfile():\n    \"\"\"sumary_line fm.load(afile)['summary']\"\"\"\n    with open(TFILE, \"r\",\n              encoding=\"utf-8\") as gfile:\n        jgf = gfile.read()",
+        "detail": "linkr",
+        "documentation": {}
+    },
+    {
+        "label": "arts",
+        "kind": 5,
+        "importPath": "linkr",
+        "description": "linkr",
+        "peekOfCode": "arts = base_dir + ARTDIR\ndef resub(tag, line):\n    \"\"\"sumary_line fm.load(afile)['summary']\"\"\"\n    return re.sub(tag, f\"[[{tag}]]\", line)\ndef get_tagfile():\n    \"\"\"sumary_line fm.load(afile)['summary']\"\"\"\n    with open(TFILE, \"r\",\n              encoding=\"utf-8\") as gfile:\n        jgf = gfile.read()\n        return jgf.split(\",\")",
+        "detail": "linkr",
+        "documentation": {}
+    },
+    {
+        "label": "load_folder",
+        "kind": 2,
+        "importPath": "load_folder",
+        "description": "load_folder",
+        "peekOfCode": "def load_folder(arts):\n    \"\"\" load all md in TESTDIR and append Post object to files dict list\nArgs:\n    TESTDIR (folder): folder containing md files\nReturns:\n    list: [list of dicts] --> [filename]: [Post object]\"\"\"\n    links = []\n    for filename in os.listdir(arts):\n        if filename.endswith(\".md\"):\n            tfi = arts + filename",
+        "detail": "load_folder",
+        "documentation": {}
+    },
+    {
+        "label": "search_yaml",
+        "kind": 2,
+        "importPath": "loadyaml",
+        "description": "loadyaml",
+        "peekOfCode": "def search_yaml(file, a):\n    \"\"\"sumary_line\"\"\"\n    end = []\n    # print(type(file))\n    for i, nii in enumerate(file, 1):\n        if a.search(nii):\n            end = i\n    return end\ndef endof_yaml(file):\n    \"\"\"sumary_line\"\"\"",
+        "detail": "loadyaml",
+        "documentation": {}
+    },
+    {
+        "label": "endof_yaml",
+        "kind": 2,
+        "importPath": "loadyaml",
+        "description": "loadyaml",
+        "peekOfCode": "def endof_yaml(file):\n    \"\"\"sumary_line\"\"\"\n    abc = re.compile(\"---\")\n    return search_yaml(file, abc)\nload_folder()",
+        "detail": "loadyaml",
+        "documentation": {}
+    },
+    {
+        "label": "suball",
+        "kind": 2,
+        "importPath": "makesubs",
+        "description": "makesubs",
+        "peekOfCode": "def suball():\n    \"\"\"sumary_line\"\"\"\n    abc = checkforend()\n    subs = 0\n    tags = check_file()\n    cleartags = [tag.strip(\" \") for tag in tags]\n    while \"\" in cleartags:\n        cleartags.remove(\"\")\n    for tag in cleartags:\n        with open(tfi, \"r\", encoding='utf-8') as file:",
+        "detail": "makesubs",
+        "documentation": {}
+    },
+    {
+        "label": "checkforend",
+        "kind": 2,
+        "importPath": "makesubs",
+        "description": "makesubs",
+        "peekOfCode": "def checkforend():\n    \"\"\"sumary_line\"\"\"\n    with open(tfi, \"r\", encoding='utf-8') as file:\n        text = file.readlines()\n        end = endof_yaml(text)\n    return end\ndef check_file():\n    \"\"\"check if file exists\n    Keyword arguments:\n    argument -- description",
+        "detail": "makesubs",
+        "documentation": {}
+    },
+    {
+        "label": "check_file",
+        "kind": 2,
+        "importPath": "makesubs",
+        "description": "makesubs",
+        "peekOfCode": "def check_file():\n    \"\"\"check if file exists\n    Keyword arguments:\n    argument -- description\n    Return: return_description\n    \"\"\"\n    return cleantags(get_tags(tfi))\ndef cleantags(tags):\n    \"\"\"sumary_line  remove empty tags\"\"\"\n    alltags = []",
+        "detail": "makesubs",
+        "documentation": {}
+    },
+    {
+        "label": "cleantags",
+        "kind": 2,
+        "importPath": "makesubs",
+        "description": "makesubs",
+        "peekOfCode": "def cleantags(tags):\n    \"\"\"sumary_line  remove empty tags\"\"\"\n    alltags = []\n    for i in tags:\n        p = i.strip(\"#\")\n        o = p.strip(\";\")\n        alltags.append(o)\n    return alltags\ndef get_tags(post):\n    \"\"\"sumary_line\"\"\"",
+        "detail": "makesubs",
+        "documentation": {}
+    },
+    {
+        "label": "get_tags",
+        "kind": 2,
+        "importPath": "makesubs",
+        "description": "makesubs",
+        "peekOfCode": "def get_tags(post):\n    \"\"\"sumary_line\"\"\"\n    abc = fm.load(post)\n    return abc['tags']\ndef get_postcontent(tfi):\n    \"\"\"sumary_line\"\"\"\n    with open(tfi, \"r\", encoding='utf-8') as post:\n        return fm.load(post)\ndef get_post(tfi):\n    \"\"\"sumary_line\"\"\"",
+        "detail": "makesubs",
+        "documentation": {}
+    },
+    {
+        "label": "get_postcontent",
+        "kind": 2,
+        "importPath": "makesubs",
+        "description": "makesubs",
+        "peekOfCode": "def get_postcontent(tfi):\n    \"\"\"sumary_line\"\"\"\n    with open(tfi, \"r\", encoding='utf-8') as post:\n        return fm.load(post)\ndef get_post(tfi):\n    \"\"\"sumary_line\"\"\"\n    with open(tfi, \"r\", encoding='utf-8') as post:\n        return post\nbad = check_file()\ncad = checkforend()",
+        "detail": "makesubs",
+        "documentation": {}
+    },
+    {
+        "label": "get_post",
+        "kind": 2,
+        "importPath": "makesubs",
+        "description": "makesubs",
+        "peekOfCode": "def get_post(tfi):\n    \"\"\"sumary_line\"\"\"\n    with open(tfi, \"r\", encoding='utf-8') as post:\n        return post\nbad = check_file()\ncad = checkforend()\ndad = suball()\nprint(dad)",
+        "detail": "makesubs",
+        "documentation": {}
+    },
+    {
+        "label": "TEST",
+        "kind": 5,
+        "importPath": "makesubs",
+        "description": "makesubs",
+        "peekOfCode": "TEST = \"\"\"Aboriginal Peoples and Comprehensive Land\nClaims Negotiations in Canada.md\"\"\"\ntfi = arts + TEST\ndef suball():\n    \"\"\"sumary_line\"\"\"\n    abc = checkforend()\n    subs = 0\n    tags = check_file()\n    cleartags = [tag.strip(\" \") for tag in tags]\n    while \"\" in cleartags:",
+        "detail": "makesubs",
+        "documentation": {}
+    },
+    {
+        "label": "tfi",
+        "kind": 5,
+        "importPath": "makesubs",
+        "description": "makesubs",
+        "peekOfCode": "tfi = arts + TEST\ndef suball():\n    \"\"\"sumary_line\"\"\"\n    abc = checkforend()\n    subs = 0\n    tags = check_file()\n    cleartags = [tag.strip(\" \") for tag in tags]\n    while \"\" in cleartags:\n        cleartags.remove(\"\")\n    for tag in cleartags:",
+        "detail": "makesubs",
+        "documentation": {}
+    },
+    {
+        "label": "bad",
+        "kind": 5,
+        "importPath": "makesubs",
+        "description": "makesubs",
+        "peekOfCode": "bad = check_file()\ncad = checkforend()\ndad = suball()\nprint(dad)",
+        "detail": "makesubs",
+        "documentation": {}
+    },
+    {
+        "label": "cad",
+        "kind": 5,
+        "importPath": "makesubs",
+        "description": "makesubs",
+        "peekOfCode": "cad = checkforend()\ndad = suball()\nprint(dad)",
+        "detail": "makesubs",
+        "documentation": {}
+    },
+    {
+        "label": "dad",
+        "kind": 5,
+        "importPath": "makesubs",
+        "description": "makesubs",
+        "peekOfCode": "dad = suball()\nprint(dad)",
+        "detail": "makesubs",
+        "documentation": {}
+    }
+]
